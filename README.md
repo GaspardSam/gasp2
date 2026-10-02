@@ -1,3 +1,5 @@
+python -m pip install opencv-python numpy
+
 """Sélectionne deux points, redresse l'image et enregistre un zoom."""
 
 import sys
